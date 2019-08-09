@@ -1,0 +1,19 @@
+{
+  "name": "mxgraph-lakshamana",
+  "version": "1.0.0",
+  "description": "A mxgraph (v4.0.2) npm-fixed package",
+  "main": "./javascript/dist/build.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lakshamana/mxgraph-lakshamana.git"
+  },
+  "author": "lakshamana",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Lakshamana/mxgraph-lakshamana/issues"
+  },
+  "homepage": "https://github.com/Lakshamana/mxgraph-lakshamana#readme"
+}
